@@ -4,3 +4,15 @@
 .width-half {
     width: 50% !important;
 }
+
+body * {
+    font-family: 'Work Sans', sans-serif !important;
+}
+
+.usa-button:hover {
+    color: white !important;
+}
+
+.usa-button:visited {
+    color: inherit;
+}
