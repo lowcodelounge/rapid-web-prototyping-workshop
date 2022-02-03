@@ -1,14 +1,14 @@
 ### REQUIRED SETTINGS ###
 
 # Set a plain language title for the site.
-title: Trap Kit
+title: Rapid Web Prototyping Workshop
 
 # Write a short description for the site. This is used for "meta description."
-description: No-cost, no-catch rapid web prototyping for no-coders
+description: For UXPA 2022, a half-day workshop on how to make rapid web prototypes — responsive as code, easy as paper — and get real feedback real fast.
 
 # Enable for live hosting on GitHub Pages
 # This should match the name of your GitHub repository, along with a leading forward slash (/).
-baseurl: /trapkit
+baseurl: /rwp-workshop
 
 ### RECOMMENDED SETTINGS ###
 
