@@ -93,8 +93,7 @@ This is an open-source workshop, meaning all the material relating to this event
 When you subscribe, you’ll get occasional email specifically about this workshop and the related material — nothing else.
 {: .font-body-md}
 
-<input type="email" class="usa-input bg-accent-warm-lighter margin-bottom-2 radius-md">
-<button class="usa-button usa-button--big bg-accent-warm-light text-ink hover:bg-accent-warm-dark">Subscribe</button>
+{% include content/tinyletter.html %}
 
 Not ready to commit? You can always [follow me on Twitter](https://twitter.com/pglevy){: .text-accent-warm-light .hover:text-accent-warm} to stay in the loop.
 {: .font-body-md}
