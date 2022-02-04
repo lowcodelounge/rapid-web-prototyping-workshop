@@ -16,3 +16,7 @@ body * {
 .usa-button:visited {
     color: inherit;
 }
+
+.text-semibold {
+    font-weight: 600;
+}
