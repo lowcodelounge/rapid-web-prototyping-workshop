@@ -102,3 +102,6 @@ Not ready to commit? You can always [follow me on Twitter](https://twitter.com/p
 
 Made with [Trap Kit](https://github.com/pglevy/trapkit#readme){: .text-accent-warm-light .hover:text-accent-warm}—no-cost, no-catch rapid web prototyping for no-coders.
 {: .text-center}
+
+Illustration by [Illustrations.co](https://illlustrations.co/){: .text-accent-warm-light .hover:text-accent-warm}
+{: .text-center}
