@@ -11,7 +11,7 @@ Coming to [UXPA 2022](https://uxpa2022.org/){: .text-accent-warm-light .hover:te
 {: .font-body-lg .text-uppercase}
 
 # Rapid Web Prototyping Workshop
-{: .font-body-3xl}
+{: .font-body-3xl .line-height-body-2}
 
 {% include content/banner.html %}
 
@@ -23,10 +23,10 @@ On June 20<sup>th</sup>, spend a half-day learning how to make rapid web prototy
 
 </header>
 
-<article class="grid-container-tablet-lg" markdown="1">
+<article class="grid-container-tablet-lg border-bottom-1px border-accent-warm-lighter" markdown="1">
 
 ## Why rapid web prototyping
-{: .font-body-xl}
+{: .font-body-xl .line-height-body-2}
 
 ### Get down with Markdown and go content-first.
 {: .text-accent-warm-light .text-uppercase}
@@ -62,7 +62,7 @@ Working with an accessibility-aware, mobile-friendly design system allows you to
 {: .text-center}
 
 ## What you’ll learn
-{: .font-body-xl}
+{: .font-body-xl .line-height-body-2}
 
 Use the Trap Kit template to build working prototypes in the browser with the human-friendliest tech stack around: Markdown for content, USWDS for components, and GitHub Pages for hosting. All free and open-source.
 {: .font-body-md}
@@ -73,7 +73,7 @@ Use the Trap Kit template to build working prototypes in the browser with the hu
 {: .font-body-md}
 
 ## How to get involved
-{: .font-body-xl}
+{: .font-body-xl .line-height-body-2}
 
 ### Come to San Diego this June!
 {: .text-accent-warm-light .text-uppercase}
@@ -88,7 +88,7 @@ This is an open-source workshop, meaning all the material relating to this event
 {: .font-body-md}
 
 ## Subscribe to workshop newsletter
-{: .font-body-xl}
+{: .font-body-xl .line-height-body-2}
 
 When you subscribe, you’ll get occasional email specifically about this workshop and the related material — nothing else.
 {: .font-body-md}
@@ -99,3 +99,6 @@ Not ready to commit? You can always [follow me on Twitter](https://twitter.com/p
 {: .font-body-md}
 
 </article>
+
+Made with [Trap Kit](https://github.com/pglevy/trapkit#readme){: .text-accent-warm-light .hover:text-accent-warm}—no-cost, no-catch rapid web prototyping for no-coders.
+{: .text-center}
