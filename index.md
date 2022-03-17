@@ -18,7 +18,7 @@ Coming to [UXPA 2022](https://uxpa2022.org/){: .text-accent-warm-light .hover:te
 On June 20<sup>th</sup>, spend a half-day learning how to make rapid web prototypes — responsive as code, easy as paper — and get real feedback real fast.
 {: .font-body-lg}
 
-{% include components/button.html link="#subscribe-to-workshop-newsletter" label="Get email updates" style="usa-button usa-button--big bg-accent-warm-light text-ink hover:bg-accent-warm-dark margin-bottom-2" %} {% include components/button.html link="#why-rapid-web-prototyping" label="Learn more" style="usa-button usa-button--outline usa-button--inverse usa-button--big" %}
+{% include components/button.html link="https://uxpa2022.org/tickets/" label="Get tickets" style="usa-button usa-button--big bg-accent-warm-light text-ink hover:bg-accent-warm-dark margin-bottom-2" %} {% include components/button.html link="#why-rapid-web-prototyping" label="Learn more" style="usa-button usa-button--outline usa-button--inverse usa-button--big" %}
 {: .text-ink}
 
 </header>
