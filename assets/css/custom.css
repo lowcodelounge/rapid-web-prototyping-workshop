@@ -20,3 +20,19 @@ body * {
 .text-semibold {
     font-weight: 600;
 }
+
+.slide a:not(.usa-button) {
+    color: #ffbc78;
+}
+
+.slide a:hover:not(.usa-button), .slide a:active:not(.usa-button) {
+    color: #fa9441;
+}
+
+.slide a:visited:not(.usa-button) {
+    color: #e1f3f8
+}
+
+.slide a:visited:hover:not(.usa-button) {
+    color: white;
+}
