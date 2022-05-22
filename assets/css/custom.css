@@ -21,6 +21,14 @@ body * {
     font-weight: 600;
 }
 
+.projection-text {
+    font-size: 2rem;
+}
+
+.projection-text li {
+    margin-bottom: 1.25rem;
+}
+
 .slide a:not(.usa-button) {
     color: #ffbc78;
 }
@@ -36,3 +44,4 @@ body * {
 .slide a:visited:hover:not(.usa-button) {
     color: white;
 }
+

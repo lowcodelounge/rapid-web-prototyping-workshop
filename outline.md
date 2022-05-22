@@ -1,6 +1,6 @@
 ---
 layout: grid-container
-title: Home
+title: Outline
 body-style: bg-primary-darker text-accent-warm-lighter line-height-body-4 padding-bottom-9 font-body-lg slide
 layout-style:
 ---
@@ -16,11 +16,12 @@ Have questions? [Tweet at me](https://tiny.one/pn8bdvwr)
 
 ## Introduction
 
-- Why low-code prototyping? (was: rapid web prototyping 😬)
-- When to use
-- What you'll learn in this workshop
-- What you'll need
-- What you'll build
+- [Why low-code prototyping?]({{ site.baseurl }}{% link introduction/why-low-code-prototyping.md %}) (was: rapid web prototyping 😬)
+- [When to use]({{ site.baseurl }}{% link introduction/when-to-use.md %})
+- [What you'll learn in this workshop]({{ site.baseurl }}{% link introduction/what-youll-learn.md %})
+- [What you'll need]({{ site.baseurl }}{% link introduction/what-youll-need.md %})
+- [What you'll build]({{ site.baseurl }}{% link introduction/what-youll-build.md %})
+- [Introduction activity]({{ site.baseurl }}{% link introduction/activity.md %})
 
 ## Environment
 
