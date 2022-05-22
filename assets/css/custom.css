@@ -9,6 +9,10 @@ body * {
     font-family: 'Work Sans', sans-serif !important;
 }
 
+code {
+    font-family: 'Courier New', Courier, monospace !important;
+}
+
 .usa-button:hover {
     color: white !important;
 }
@@ -23,6 +27,18 @@ body * {
 
 .projection-text {
     font-size: 2rem;
+}
+
+.projection-text blockquote {
+    font-style: italic;
+    border-color: #005ea2;
+    border-left: 4px solid #005ea2;
+    margin-left: 0;
+    padding: 1rem;
+}
+
+.projection-text blockquote p {
+    margin: 0;
 }
 
 .projection-text li {

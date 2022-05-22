@@ -25,18 +25,12 @@ Have questions? [Tweet at me](https://tiny.one/pn8bdvwr)
 
 ## Environment
 
-- GitHub
-    - Branches, commits, and pull request, oh my!
-- Trapkit: the low-code prototyping template
-    - U.S. Web Design System
-    - Jekyll and Markdown
-    - GitHub Pages
-- Other tools:
-    - Codepen
-    - Gitpod
-- Activities:
-    - Sign in to GitHub
-    - Create copy of template and publish
+- [GitHub]({{ site.baseurl }}{% link environment/github.md %})
+    - [Branches]({{ site.baseurl }}{% link environment/branches.md %}), [commits]({{ site.baseurl }}{% link environment/commits.md %}), and [pull requests]({{ site.baseurl }}{% link environment/pull-requests.md %}), oh my!
+- [Trapkit]({{ site.baseurl }}{% link environment/trapkit.md %}): the low-code prototyping toolkit
+- [Gitpod]({{ site.baseurl }}{% link environment/gitpod.md %}): browser-based dev environment to save us from local installs
+- [Markdown]({{ site.baseurl }}{% link environment/markdown.md %}): structured content, for both humans and computers
+- [Environment activity]({{ site.baseurl }}{% link environment/activity.md %})
 
 ## Functionality
 
@@ -75,6 +69,7 @@ Have questions? [Tweet at me](https://tiny.one/pn8bdvwr)
 ## Resources
 
 - [GitHub](https://github.com/)
+- [GitHub Pages](https://pages.github.com/)
 - [Gitpod](https://www.gitpod.io/)
 - [Codepen](https://codepen.io/)
 - [U.S. Web Design System](https://designsystem.digital.gov/)
