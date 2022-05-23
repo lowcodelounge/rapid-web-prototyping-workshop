@@ -3,5 +3,5 @@ layout: default
 ---
 <div class="grid-container{% if page.prose %} usa-prose padding-y-4{% endif %}  {{ page.layout-style }}">
     {{ content }}
-    {% if page.layout == "grid-container" %}<a href="{{ site.baseurl}}/outline.html">Back to outline</a>{% endif %}
+    {% if page.title != "Home" and page.title !="Outline" %}<a href="{{ site.baseurl}}/outline.html">Back to outline</a>{% endif %}
 </div>
