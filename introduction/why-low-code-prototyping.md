@@ -7,6 +7,6 @@ layout-style: projection-text
 
 # {{ page.title }}
 
-- Working with realistic *interactions* results in more meaningful feedback
-- Working with realistic *content* results in more meaningful feedback
+- Working with realistic *interactions* and *content* results in more meaningful feedback
 - Getting to know the medium of delivery results in better collaboration between design and development
+- Consider accessibility and responsiveness early in the process

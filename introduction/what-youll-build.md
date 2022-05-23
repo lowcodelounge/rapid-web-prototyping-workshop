@@ -9,6 +9,7 @@ layout-style: projection-text
 
 Example projects:
 
-- Project 1
-- Project 2
-- Project 3
+- CDC Quarantive and Isolation Calculator
+- Verifly digital identity app
+- Flight check-in
+- Something of your choice

@@ -58,13 +58,11 @@ Have questions? [Tweet at me](https://tiny.one/pn8bdvwr)
     - Saving and resuing data
 - Conditionals
 
-## Build
+## Building
 
-- Potential projects:
-    - CDC Quarantive and Isolation Calculator
-    - Verifly digital identity app
-    - Flight check-in
-    - Something of your choice
+- Pick a project
+- Set up a repo
+- Share progress
 
 ## Resources
 
