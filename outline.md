@@ -66,17 +66,21 @@ Have questions? [Tweet at me](https://tiny.one/pn8bdvwr)
 
 ## Resources
 
+- [Codepen](https://codepen.io/)
 - [GitHub](https://github.com/)
+- [GitHub Desktop](https://desktop.github.com/)
 - [GitHub Pages](https://pages.github.com/)
 - [Gitpod](https://www.gitpod.io/)
-- [Codepen](https://codepen.io/)
-- [U.S. Web Design System](https://designsystem.digital.gov/)
-- [Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) (GitHub-flavored)
 - [Jekyll](https://jekyllrb.com/)
 - [jQuery](https://jquery.com/)
-- [VS Code](https://code.visualstudio.com/)
-- [GitHub Desktop](https://desktop.github.com/)
 - [Liquid filters](https://shopify.github.io/liquid/filters/abs/)
+- [Lowcode Lounge](https://lowcodelounge.co)
+- [Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) (GitHub-flavored)
+- [Trapkit](https://trapkit.co/)
+- [U.S. Web Design System](https://designsystem.digital.gov/)
+- [VS Code](https://code.visualstudio.com/)
+
+
 
 <hr>{: .border-primary}
 
