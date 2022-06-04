@@ -34,13 +34,12 @@ Have questions? [Tweet at me](https://tiny.one/pn8bdvwr)
 
 ## Functionality
 
-- Components
-- Layouts
-- Templates
-- Content
-- Data
-- Activity:
-    - Create a signin flow
+- [Content]({{ site.baseurl }}{% link functionality/content.md %})
+- [Components]({{ site.baseurl }}{% link functionality/components.md %})
+- [Layouts]({{ site.baseurl }}{% link functionality/layouts.md %})
+- [Templates]({{ site.baseurl }}{% link functionality/templates.md %})
+- [Data]({{ site.baseurl }}{% link functionality/data.md %})
+- [Functionality activity]({{ site.baseurl }}{% link functionality/activity.md %})
 
 ## Styling
 
