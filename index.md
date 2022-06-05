@@ -18,7 +18,7 @@ Coming to [UXPA 2022](https://uxpa2022.org/){: .text-accent-warm-light .hover:te
 On June 20<sup>th</sup>, spend a half-day learning how to make rapid web prototypes — responsive as code, easy as paper — and get real feedback real fast.
 {: .font-body-lg}
 
-{% include components/button.html link="https://uxpa2022.org/tickets/" label="Get tickets" style="usa-button usa-button--big bg-accent-warm-light text-ink hover:bg-accent-warm-dark margin-bottom-2" %} {% include components/button.html link="outline.html" label="Preview agenda" style="usa-button usa-button--outline usa-button--inverse usa-button--big" %}
+{% include components/button.html link="https://uxpa2022.org/tickets/" label="Get tickets" style="usa-button usa-button--big bg-accent-warm-light text-ink hover:bg-accent-warm-dark margin-bottom-2" %} {% include components/button.html link="outline.html" label="Browse agenda" style="usa-button usa-button--outline usa-button--inverse usa-button--big" %}
 {: .text-ink}
 
 </header>
@@ -78,22 +78,20 @@ Use the Trap Kit template to build working prototypes in the browser with the hu
 ### Come to San Diego this June!
 {: .text-accent-warm-light .text-uppercase}
 
-This will be live and in-person as a pre-conference workshop at UXPA 2022 on June 20th. Registration is not live yet but subscribe to my newsletter about this workshop only for updates.
+This will be live and in-person as a pre-conference workshop at UXPA 2022 on June 20th.
 {: .font-body-md}
 
 ### Can’t make it in person?
 {: .text-accent-warm-light .text-uppercase}
 
-This is an open-source workshop, meaning all the material relating to this event will be available online both leading up to the event and afterward. If you want to follow along, subscribe to my newsletter about this workshop for updates.
+This is an open-source workshop, meaning all the material relating to this event will be [available online](https://github.com/pglevy/rwp-workshop){: .text-accent-warm-light .hover:text-accent-warm}.
 {: .font-body-md}
 
-## Subscribe to workshop newsletter
+## Subscribe to Lowcode Lounge newsletter
 {: .font-body-xl .line-height-body-2}
 
-When you subscribe, you’ll get occasional email specifically about this workshop and the related material — nothing else.
+When you [subscribe](https://www.getrevue.co/profile/pglevy){: .text-accent-warm-light .hover:text-accent-warm}, you’ll get emails on approachable low-code tools and techniques for designers and makers about every three weeks.
 {: .font-body-md}
-
-{% include content/tinyletter.html %}
 
 Not ready to commit? You can always [follow me on Twitter](https://twitter.com/pglevy){: .text-accent-warm-light .hover:text-accent-warm} to stay in the loop.
 {: .font-body-md}
