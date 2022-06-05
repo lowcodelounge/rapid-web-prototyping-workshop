@@ -8,7 +8,7 @@ layout-style: projection-text
 # {{ page.title }}
 
 - Components from U.S. Web Design System
-- Set up in Trapkit template as `includes`
+- Set up in Trap Kit template as `includes`
     - Reusable
     - Cleaner content files
     - Easily configurable

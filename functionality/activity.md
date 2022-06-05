@@ -13,8 +13,6 @@ Create a sign-in page, including the following elements:
 - Forgot password link
 - Button
 
-Bonus:
-- Link to "account" page that asks if email entered is up-to-date (to test data)
+Bonus: Link to "account" page that asks if email entered is up-to-date (to test data)
 
-Super bonus:
-- Do something interesting with the forgot password link
+Super bonus: Do something interesting with the forgot password link

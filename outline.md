@@ -27,7 +27,7 @@ Have questions? [Tweet at me](https://tiny.one/pn8bdvwr)
 
 - [GitHub]({{ site.baseurl }}{% link environment/github.md %})
     - [Branches]({{ site.baseurl }}{% link environment/branches.md %}), [commits]({{ site.baseurl }}{% link environment/commits.md %}), and [pull requests]({{ site.baseurl }}{% link environment/pull-requests.md %}), oh my!
-- [Trapkit]({{ site.baseurl }}{% link environment/trapkit.md %}): the low-code prototyping toolkit
+- [Trap Kit]({{ site.baseurl }}{% link environment/trap-kit.md %}): the low-code prototyping toolkit
 - [Gitpod]({{ site.baseurl }}{% link environment/gitpod.md %}): browser-based dev environment to save us from local installs
 - [Markdown]({{ site.baseurl }}{% link environment/markdown.md %}): structured content, for both humans and computers
 - [Environment activity]({{ site.baseurl }}{% link environment/activity.md %})
@@ -43,16 +43,15 @@ Have questions? [Tweet at me](https://tiny.one/pn8bdvwr)
 
 ## Styling
 
-- USWDS primer
-- Design and utility tokens
-- Styling in Trapkit
-- Activity:
-    - Customize signin flow
+- [USWDS primer]({{ site.baseurl }}{% link styling/uswds-primer.md %})
+- [Design tokens and utilities]({{ site.baseurl }}{% link styling/design-tokens-and-utilities.md %})
+- [Styling in Trap Kit]({{ site.baseurl }}{% link styling/styling-in-trap-kit.md %})
+- [Styling activity]({{ site.baseurl }}{% link styling/activity.md %})
 
 ## Interactivity
 
 - jQuery primer
-- Actions in Trapkit
+- Actions in Trap Kit
     - Hiding and showing things
     - Saving and resuing data
 - Conditionals
@@ -75,7 +74,7 @@ Have questions? [Tweet at me](https://tiny.one/pn8bdvwr)
 - [Liquid filters](https://shopify.github.io/liquid/filters/abs/)
 - [Lowcode Lounge](https://lowcodelounge.co)
 - [Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) (GitHub-flavored)
-- [Trapkit](https://trapkit.co/)
+- [Trap Kit](https://trapkit.co/)
 - [U.S. Web Design System](https://designsystem.digital.gov/)
 - [VS Code](https://code.visualstudio.com/)
 
