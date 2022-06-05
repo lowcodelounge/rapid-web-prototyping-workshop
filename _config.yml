@@ -21,3 +21,6 @@ github: [metadata]
 
 # Remove generation of additional style.css
 theme: null
+
+plugins:
+  - jekyll-redirect-from

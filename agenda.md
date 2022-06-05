@@ -3,6 +3,8 @@ layout: grid-container
 title: Outline
 body-style: bg-primary-darker text-accent-warm-lighter line-height-body-4 padding-bottom-9 font-body-lg slide
 layout-style:
+redirect_from:
+  - /outline.html
 ---
 
 # Workshop Agenda
