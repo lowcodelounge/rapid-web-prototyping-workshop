@@ -5,9 +5,7 @@ body-style: bg-primary-darker text-accent-warm-lighter line-height-body-4 paddin
 layout-style:
 ---
 
-# Workshop Outline
-
-Here's a tentative outline of the material we're going to cover.
+# Workshop Agenda
 
 Have questions? [Tweet at me](https://tiny.one/pn8bdvwr)
 {: usa-intro}
@@ -50,17 +48,14 @@ Have questions? [Tweet at me](https://tiny.one/pn8bdvwr)
 
 ## Interactivity
 
-- jQuery primer
-- Actions in Trap Kit
-    - Hiding and showing things
-    - Saving and resuing data
-- Conditionals
+- [jQuery primer]({{ site.baseurl }}{% link interactivity/jquery-primer.md %})
+- [Hiding and showing components in Trap Kit]({{ site.baseurl }}{% link interactivity/hiding-and-showing-elements-in-trap-kit.md %})
+- [Saving and reusing data in Trap Kit]({{ site.baseurl }}{% link interactivity/saving-and-reusing-data-in-trap-kit.md %})
+- [Interactivity activity]({{ site.baseurl }}{% link interactivity/activity.md %}) 🤨
 
 ## Building
 
-- Pick a project
-- Set up a repo
-- Share progress
+- [Building activity]({{ site.baseurl }}{% link building/activity.md %})
 
 ## Resources
 
@@ -77,8 +72,6 @@ Have questions? [Tweet at me](https://tiny.one/pn8bdvwr)
 - [Trap Kit](https://trapkit.co/)
 - [U.S. Web Design System](https://designsystem.digital.gov/)
 - [VS Code](https://code.visualstudio.com/)
-
-
 
 <hr>{: .border-primary}
 

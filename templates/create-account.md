@@ -32,3 +32,4 @@ After creating your account, you'll receive a message with a link to set up your
 
 <!-- Include a button component as a call-to-action for completing the form. -->
 {% include components/button.html label="Create" link="your-account.html" %}
+{: .text-white}

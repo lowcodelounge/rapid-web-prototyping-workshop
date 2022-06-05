@@ -13,6 +13,7 @@ text-input-style: radius-lg border-2px border-base
 {% include components/text-input.html label="Email" type="text" %}
 
 {% include components/button.html label="Subscribe" link="#" %}
+{: .text-white}
 
 {% include actions/show.html click-this="subscribe" show-this="success" focus-this="close" %}
 

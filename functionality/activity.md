@@ -13,6 +13,4 @@ Create a sign-in page, including the following elements:
 - Forgot password link
 - Button
 
-Bonus: Link to "account" page that asks if email entered is up-to-date (to test data)
-
-Super bonus: Do something interesting with the forgot password link
+Bonus: Try a version based on the [USWDS Multiple sign-in options](https://designsystem.digital.gov/templates/authentication-pages/multiple-sign-in-options/) template
