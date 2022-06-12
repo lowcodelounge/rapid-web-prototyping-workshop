@@ -18,10 +18,10 @@ Have questions? [Tweet at me](https://tiny.one/pn8bdvwr)
 
 - [Why low-code prototyping?]({{ site.baseurl }}{% link introduction/why-low-code-prototyping.md %}) (was: rapid web prototyping 😬)
 - [When to use]({{ site.baseurl }}{% link introduction/when-to-use.md %})
-- [What you'll learn in this workshop]({{ site.baseurl }}{% link introduction/what-youll-learn.md %})
-- [What you'll need]({{ site.baseurl }}{% link introduction/what-youll-need.md %})
-- [What you'll build]({{ site.baseurl }}{% link introduction/what-youll-build.md %})
-- [Introduction activity]({{ site.baseurl }}{% link introduction/activity.md %})
+- [What you'll learn in this workshop]({{ site.baseurl }}{% link introduction/what-you-ll-learn-in-this-workshop.md %})
+- [What you'll need]({{ site.baseurl }}{% link introduction/what-you-ll-need.md %})
+- [What you'll build]({{ site.baseurl }}{% link introduction/what-you-ll-build.md %})
+- [Introduction activity]({{ site.baseurl }}{% link introduction/introduction-activity.md %})
 
 ## Environment
 
