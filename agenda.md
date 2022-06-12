@@ -27,9 +27,9 @@ Have questions? [Tweet at me](https://tiny.one/pn8bdvwr)
 
 - [GitHub]({{ site.baseurl }}{% link environment/github.md %})
     - [Branches]({{ site.baseurl }}{% link environment/branches.md %}), [commits]({{ site.baseurl }}{% link environment/commits.md %}), and [pull requests]({{ site.baseurl }}{% link environment/pull-requests.md %}), oh my!
-- [Trap Kit]({{ site.baseurl }}{% link environment/trap-kit.md %}): the low-code prototyping toolkit
-- [Gitpod]({{ site.baseurl }}{% link environment/gitpod.md %}): browser-based dev environment to save us from local installs
-- [Markdown]({{ site.baseurl }}{% link environment/markdown.md %}): structured content, for both humans and computers
+- [Trap Kit: the low-code prototyping toolkit]({{ site.baseurl }}{% link environment/trap-kit.md %})
+- [Gitpod]({{ site.baseurl }}{% link environment/gitpod.md %})
+- [Markdown]({{ site.baseurl }}{% link environment/markdown.md %})
 - [Environment activity]({{ site.baseurl }}{% link environment/activity.md %})
 
 ## Functionality
@@ -69,7 +69,7 @@ Have questions? [Tweet at me](https://tiny.one/pn8bdvwr)
 - [Jekyll](https://jekyllrb.com/)
 - [jQuery](https://jquery.com/)
 - [Liquid filters](https://shopify.github.io/liquid/filters/abs/)
-- [Lowcode Lounge](https://lowcodelounge.co)
+- [Lowcode Lounge](http://lowcodelounge.co)
 - [Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) (GitHub-flavored)
 - [Trap Kit](https://trapkit.co/)
 - [U.S. Web Design System](https://designsystem.digital.gov/)

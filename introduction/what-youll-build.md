@@ -7,7 +7,11 @@ layout-style: projection-text
 
 # {{ page.title }}
 
-Example projects:
+Suggested:
+
+- Hold Mail Request form
+
+Other options:
 
 - CDC Quarantive and Isolation Calculator
 - Verifly digital identity app

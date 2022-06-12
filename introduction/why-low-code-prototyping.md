@@ -9,4 +9,4 @@ layout-style: projection-text
 
 - Working with realistic *interactions* and *content* results in more meaningful feedback
 - Getting to know the medium of delivery results in better collaboration between design and development
-- Consider accessibility and responsiveness early in the process
+- Considering accessibility and responsiveness early in the process reduces rework later

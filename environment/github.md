@@ -12,5 +12,5 @@ layout-style: projection-text
     - Content management
     - Project management
     - Discussions
-    - Knowledge sharing (Wikis)
+    - Knowledge sharing (wikis)
     - Website hosting

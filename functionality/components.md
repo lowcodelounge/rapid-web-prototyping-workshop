@@ -15,7 +15,7 @@ layout-style: projection-text
 - [Component kitchen sink](https://trapkit.co/docs/component-kitchen-sink.html)
 
 <pre>
-{% raw %}{% include components/checkbox.html labels="This applies,Also this one,Don’t forget about me" %}{% endraw %}
+{% raw %}{% include components/checkbox.html labels="This applies|Also this one|Don’t forget about me" %}{% endraw %}
 </pre>
 
 ```

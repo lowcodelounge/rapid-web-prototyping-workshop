@@ -9,7 +9,7 @@ layout-style: projection-text
 
 ## Essentials
 - Computer with internet connection
-- GitHub account
+- GitHub account (Send me your username!)
 
 ## Nice-to-haves
 - Local install of Jekyll (beyond the scope of this workshop)
@@ -17,5 +17,6 @@ layout-style: projection-text
 
 ## Other options
 - Repository services: Gitlab, BitBucket
+- Hosting services: Netlify
 - Design systems: Bootstrap, Tailwind
 - Static site generators: Hugo, Eleventy
