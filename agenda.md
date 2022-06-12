@@ -27,10 +27,10 @@ Have questions? [Tweet at me](https://tiny.one/pn8bdvwr)
 
 - [GitHub]({{ site.baseurl }}{% link environment/github.md %})
     - [Branches]({{ site.baseurl }}{% link environment/branches.md %}), [commits]({{ site.baseurl }}{% link environment/commits.md %}), and [pull requests]({{ site.baseurl }}{% link environment/pull-requests.md %}), oh my!
-- [Trap Kit: the low-code prototyping toolkit]({{ site.baseurl }}{% link environment/trap-kit.md %})
+- [Trap Kit]({{ site.baseurl }}{% link environment/trap-kit.md %})
 - [Gitpod]({{ site.baseurl }}{% link environment/gitpod.md %})
 - [Markdown]({{ site.baseurl }}{% link environment/markdown.md %})
-- [Environment activity]({{ site.baseurl }}{% link environment/activity.md %})
+- [Environment activity]({{ site.baseurl }}{% link environment/environment-activity.md %})
 
 ## Functionality
 
