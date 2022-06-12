@@ -51,9 +51,9 @@ Have questions? [Tweet at me](https://tiny.one/pn8bdvwr)
 ## Interactivity
 
 - [jQuery primer]({{ site.baseurl }}{% link interactivity/jquery-primer.md %})
-- [Hiding and showing components in Trap Kit]({{ site.baseurl }}{% link interactivity/hiding-and-showing-elements-in-trap-kit.md %})
+- [Hiding and showing elements in Trap Kit]({{ site.baseurl }}{% link interactivity/hiding-and-showing-elements-in-trap-kit.md %})
 - [Saving and reusing data in Trap Kit]({{ site.baseurl }}{% link interactivity/saving-and-reusing-data-in-trap-kit.md %})
-- [Interactivity activity]({{ site.baseurl }}{% link interactivity/activity.md %}) 🤨
+- [Interactivity activity]({{ site.baseurl }}{% link interactivity/interactivity-activity.md %}) 🤨
 
 ## Building
 
