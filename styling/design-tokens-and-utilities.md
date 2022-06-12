@@ -3,6 +3,7 @@ layout: grid-container
 title: Design tokens and utilities
 body-style: bg-primary-darker text-accent-warm-lighter line-height-body-4 padding-bottom-9 font-body-lg slide
 layout-style: projection-text
+next: Styling in Trap Kit
 ---
 
 # {{ page.title }}

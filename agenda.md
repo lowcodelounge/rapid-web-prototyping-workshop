@@ -46,7 +46,7 @@ Have questions? [Tweet at me](https://tiny.one/pn8bdvwr)
 - [USWDS primer]({{ site.baseurl }}{% link styling/uswds-primer.md %})
 - [Design tokens and utilities]({{ site.baseurl }}{% link styling/design-tokens-and-utilities.md %})
 - [Styling in Trap Kit]({{ site.baseurl }}{% link styling/styling-in-trap-kit.md %})
-- [Styling activity]({{ site.baseurl }}{% link styling/activity.md %})
+- [Styling activity]({{ site.baseurl }}{% link styling/styling-activity.md %})
 
 ## Interactivity
 
