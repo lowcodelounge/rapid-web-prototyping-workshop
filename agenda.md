@@ -18,19 +18,19 @@ Have questions? [Tweet at me](https://tiny.one/pn8bdvwr)
 
 - [Why low-code prototyping?]({{ site.baseurl }}{% link introduction/why-low-code-prototyping.md %}) (was: rapid web prototyping 😬)
 - [When to use]({{ site.baseurl }}{% link introduction/when-to-use.md %})
-- [What you'll learn in this workshop]({{ site.baseurl }}{% link introduction/what-youll-learn.md %})
-- [What you'll need]({{ site.baseurl }}{% link introduction/what-youll-need.md %})
-- [What you'll build]({{ site.baseurl }}{% link introduction/what-youll-build.md %})
-- [Introduction activity]({{ site.baseurl }}{% link introduction/activity.md %})
+- [What you'll learn in this workshop]({{ site.baseurl }}{% link introduction/what-you-ll-learn-in-this-workshop.md %})
+- [What you'll need]({{ site.baseurl }}{% link introduction/what-you-ll-need.md %})
+- [What you'll build]({{ site.baseurl }}{% link introduction/what-you-ll-build.md %})
+- [Introduction activity]({{ site.baseurl }}{% link introduction/introduction-activity.md %})
 
 ## Environment
 
 - [GitHub]({{ site.baseurl }}{% link environment/github.md %})
     - [Branches]({{ site.baseurl }}{% link environment/branches.md %}), [commits]({{ site.baseurl }}{% link environment/commits.md %}), and [pull requests]({{ site.baseurl }}{% link environment/pull-requests.md %}), oh my!
-- [Trap Kit: the low-code prototyping toolkit]({{ site.baseurl }}{% link environment/trap-kit.md %})
+- [Trap Kit]({{ site.baseurl }}{% link environment/trap-kit.md %})
 - [Gitpod]({{ site.baseurl }}{% link environment/gitpod.md %})
 - [Markdown]({{ site.baseurl }}{% link environment/markdown.md %})
-- [Environment activity]({{ site.baseurl }}{% link environment/activity.md %})
+- [Environment activity]({{ site.baseurl }}{% link environment/environment-activity.md %})
 
 ## Functionality
 
@@ -39,21 +39,21 @@ Have questions? [Tweet at me](https://tiny.one/pn8bdvwr)
 - [Layouts]({{ site.baseurl }}{% link functionality/layouts.md %})
 - [Templates]({{ site.baseurl }}{% link functionality/templates.md %})
 - [Data]({{ site.baseurl }}{% link functionality/data.md %})
-- [Functionality activity]({{ site.baseurl }}{% link functionality/activity.md %})
+- [Functionality activity]({{ site.baseurl }}{% link functionality/functionality-activity.md %})
 
 ## Styling
 
 - [USWDS primer]({{ site.baseurl }}{% link styling/uswds-primer.md %})
 - [Design tokens and utilities]({{ site.baseurl }}{% link styling/design-tokens-and-utilities.md %})
 - [Styling in Trap Kit]({{ site.baseurl }}{% link styling/styling-in-trap-kit.md %})
-- [Styling activity]({{ site.baseurl }}{% link styling/activity.md %})
+- [Styling activity]({{ site.baseurl }}{% link styling/styling-activity.md %})
 
 ## Interactivity
 
 - [jQuery primer]({{ site.baseurl }}{% link interactivity/jquery-primer.md %})
-- [Hiding and showing components in Trap Kit]({{ site.baseurl }}{% link interactivity/hiding-and-showing-elements-in-trap-kit.md %})
+- [Hiding and showing elements in Trap Kit]({{ site.baseurl }}{% link interactivity/hiding-and-showing-elements-in-trap-kit.md %})
 - [Saving and reusing data in Trap Kit]({{ site.baseurl }}{% link interactivity/saving-and-reusing-data-in-trap-kit.md %})
-- [Interactivity activity]({{ site.baseurl }}{% link interactivity/activity.md %}) 🤨
+- [Interactivity activity]({{ site.baseurl }}{% link interactivity/interactivity-activity.md %}) 🤨
 
 ## Building
 
