@@ -39,7 +39,7 @@ Have questions? [Tweet at me](https://tiny.one/pn8bdvwr)
 - [Layouts]({{ site.baseurl }}{% link functionality/layouts.md %})
 - [Templates]({{ site.baseurl }}{% link functionality/templates.md %})
 - [Data]({{ site.baseurl }}{% link functionality/data.md %})
-- [Functionality activity]({{ site.baseurl }}{% link functionality/activity.md %})
+- [Functionality activity]({{ site.baseurl }}{% link functionality/functionality-activity.md %})
 
 ## Styling
 
