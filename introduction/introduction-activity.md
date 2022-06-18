@@ -7,7 +7,7 @@ layout-style: projection-text
 
 # {{ page.title }}
 
-Make a post in the [Welcome discussion](https://github.com/pglevy/rwp-workshop/discussions/3) on the GitHub repo. Consider including the following:
+Make a post in the [Welcome discussion](https://github.com/lowcodelounge/rapid-web-prototyping-workshop/discussions/3) on the GitHub repo. Consider including the following:
 - Your name
 - Where you traveled from
 - Your experience level with HTML and CSS

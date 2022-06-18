@@ -8,7 +8,7 @@ description: For UXPA 2022, a half-day workshop on how to make rapid web prototy
 
 # Enable for live hosting on GitHub Pages
 # This should match the name of your GitHub repository, along with a leading forward slash (/).
-baseurl: /rwp-workshop
+baseurl: /rapid-web-prototyping-workshop
 
 ### RECOMMENDED SETTINGS ###
 

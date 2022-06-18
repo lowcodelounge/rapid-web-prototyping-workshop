@@ -84,7 +84,7 @@ This will be live and in-person as a pre-conference workshop at UXPA 2022 on Jun
 ### Can’t make it in person?
 {: .text-accent-warm-light .text-uppercase}
 
-This is an open-source workshop, meaning all the material relating to this event will be [available online](https://github.com/pglevy/rwp-workshop){: .text-accent-warm-light .hover:text-accent-warm}.
+This is an open-source workshop, meaning all the material relating to this event will be [available online](https://github.com/lowcodelounge/rapid-web-prototyping-workshop){: .text-accent-warm-light .hover:text-accent-warm}.
 {: .font-body-md}
 
 ## Subscribe to Lowcode Lounge newsletter
