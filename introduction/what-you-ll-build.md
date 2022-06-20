@@ -15,6 +15,5 @@ Suggested:
 Other options:
 
 - CDC Quarantive and Isolation Calculator
-- Verifly digital identity app
 - Flight check-in
 - Something of your choice
