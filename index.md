@@ -7,18 +7,15 @@ layout-style:
 
 <header class="text-center border-bottom-1px border-accent-warm-lighter" markdown="1">
 
-Coming to [UXPA 2022](https://uxpa2022.org/){: .text-accent-warm-light .hover:text-accent-warm} this summer…
-{: .font-body-lg .text-uppercase}
-
 # Rapid Web Prototyping Workshop
 {: .font-body-3xl .line-height-body-2}
 
 {% include content/banner.html %}
 
-On June 20<sup>th</sup>, spend a half-day learning how to make rapid web prototypes — responsive as code, easy as paper — and get real feedback real fast.
+Learn how to make rapid web prototypes — responsive as code, easy as paper — and get real feedback real fast.
 {: .font-body-lg}
 
-{% include components/button.html link="https://uxpa2022.org/tickets/" label="Get tickets" style="usa-button usa-button--big bg-accent-warm-light text-ink hover:bg-accent-warm-dark margin-bottom-2" %} {% include components/button.html link="outline.html" label="Browse agenda" style="usa-button usa-button--outline usa-button--inverse usa-button--big" %}
+{% include components/button.html link="agenda.html" label="Go to course content" style="usa-button usa-button--big bg-accent-warm-light text-ink hover:bg-accent-warm-dark margin-bottom-2" %}
 {: .text-ink}
 
 </header>
@@ -72,21 +69,6 @@ Use the Trap Kit template to build working prototypes in the browser with the hu
 1. Go live with GitHub Pages and get feedback from real people on real devices.
 {: .font-body-md}
 
-## How to get involved
-{: .font-body-xl .line-height-body-2}
-
-### Come to San Diego this June!
-{: .text-accent-warm-light .text-uppercase}
-
-This will be live and in-person as a pre-conference workshop at UXPA 2022 on June 20th.
-{: .font-body-md}
-
-### Can’t make it in person?
-{: .text-accent-warm-light .text-uppercase}
-
-This is an open-source workshop, meaning all the material relating to this event will be [available online](https://github.com/lowcodelounge/rapid-web-prototyping-workshop){: .text-accent-warm-light .hover:text-accent-warm}.
-{: .font-body-md}
-
 ## Subscribe to Lowcode Lounge newsletter
 {: .font-body-xl .line-height-body-2}
 
@@ -98,7 +80,7 @@ Not ready to commit? You can always [follow me on Twitter](https://twitter.com/p
 
 </article>
 
-Made with [Trap Kit](https://github.com/pglevy/trapkit#readme){: .text-accent-warm-light .hover:text-accent-warm}—no-cost, no-catch rapid web prototyping for no-coders.
+Made with [Trap Kit](https://github.com/pglevy/trapkit#readme){: .text-accent-warm-light .hover:text-accent-warm} and available on [GitHub](https://github.com/lowcodelounge/rapid-web-prototyping-workshop){: .text-accent-warm-light .hover:text-accent-warm}.
 {: .text-center}
 
 Illustration by [Illustrations.co](https://illlustrations.co/){: .text-accent-warm-light .hover:text-accent-warm}
