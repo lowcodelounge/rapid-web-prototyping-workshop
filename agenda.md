@@ -16,7 +16,7 @@ Have questions? [Tweet at me](https://tiny.one/pn8bdvwr)
 
 ## Introduction
 
-- [Why low-code prototyping?]({{ site.baseurl }}{% link introduction/why-low-code-prototyping.md %}) (was: rapid web prototyping 😬)
+- [Why “low-code” prototyping?]({{ site.baseurl }}{% link introduction/why-low-code-prototyping.md %})
 - [When to use]({{ site.baseurl }}{% link introduction/when-to-use.md %})
 - [What you'll learn in this workshop]({{ site.baseurl }}{% link introduction/what-you-ll-learn-in-this-workshop.md %})
 - [What you'll need]({{ site.baseurl }}{% link introduction/what-you-ll-need.md %})
@@ -53,7 +53,7 @@ Have questions? [Tweet at me](https://tiny.one/pn8bdvwr)
 - [jQuery primer]({{ site.baseurl }}{% link interactivity/jquery-primer.md %})
 - [Hiding and showing elements in Trap Kit]({{ site.baseurl }}{% link interactivity/hiding-and-showing-elements-in-trap-kit.md %})
 - [Saving and reusing data in Trap Kit]({{ site.baseurl }}{% link interactivity/saving-and-reusing-data-in-trap-kit.md %})
-- [Interactivity activity]({{ site.baseurl }}{% link interactivity/interactivity-activity.md %}) 🤨
+- [Interactivity activity]({{ site.baseurl }}{% link interactivity/interactivity-activity.md %})
 
 ## Building
 
