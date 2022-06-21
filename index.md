@@ -69,6 +69,9 @@ Use the Trap Kit template to build working prototypes in the browser with the hu
 1. Go live with GitHub Pages and get feedback from real people on real devices.
 {: .font-body-md}
 
+{% include components/button.html link="agenda.html" label="Go to course content" style="usa-button usa-button--big bg-accent-warm-light text-ink hover:bg-accent-warm-dark margin-bottom-2" %}
+{: .text-ink .text-center}
+
 ## Subscribe to Lowcode Lounge newsletter
 {: .font-body-xl .line-height-body-2}
 
