@@ -9,7 +9,7 @@ redirect_from:
 
 # Workshop Agenda
 
-Have questions? [Tweet at me](https://tiny.one/pn8bdvwr)
+Have questions? [Connect on LinkedIn](https://www.linkedin.com/in/philipglevy/)
 {: usa-intro}
 
 <hr>{: .border-primary}
