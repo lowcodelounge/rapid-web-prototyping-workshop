@@ -72,15 +72,6 @@ Use the Trap Kit template to build working prototypes in the browser with the hu
 {% include components/button.html link="agenda.html" label="Go to course content" style="usa-button usa-button--big bg-accent-warm-light text-ink hover:bg-accent-warm-dark margin-bottom-2" %}
 {: .text-ink .text-center}
 
-## Subscribe to Lowcode Lounge newsletter
-{: .font-body-xl .line-height-body-2}
-
-When you [subscribe](https://www.getrevue.co/profile/pglevy){: .text-accent-warm-light .hover:text-accent-warm}, you’ll get emails on approachable low-code tools and techniques for designers and makers about every three weeks.
-{: .font-body-md}
-
-Not ready to commit? You can always [follow me on Twitter](https://twitter.com/pglevy){: .text-accent-warm-light .hover:text-accent-warm} to stay in the loop.
-{: .font-body-md}
-
 </article>
 
 Made with [Trap Kit](https://github.com/pglevy/trapkit#readme){: .text-accent-warm-light .hover:text-accent-warm} and available on [GitHub](https://github.com/lowcodelounge/rapid-web-prototyping-workshop){: .text-accent-warm-light .hover:text-accent-warm}.
